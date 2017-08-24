@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello renders with default name 1`] = `
+<div>
+  Hello 
+  David
+  !
+</div>
+`;
+
+exports[`Hello renders with name 1`] = `
+<div>
+  Hello 
+  Bob
+  !
+</div>
+`;
